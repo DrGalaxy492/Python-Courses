@@ -1,2 +1,3 @@
-# Python-Starter-For-Begineers
-A python course for Python beginners
+a very basic python course for begineers
+
+all code by vSync#1337.
